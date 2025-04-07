@@ -64,6 +64,7 @@ npx cypress open
 ## 📸 Test Run Screenshot
 
 ![Test Run Screenshot](./screenshots/test-run.png)
+Cypress test run verifying all login scenarios (valid, invalid, and empty credentials).
 
 
 
