@@ -1,0 +1,15 @@
+# === Node.js dependencies ===
+node_modules/
+
+# === Logs ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === System / Editor Files ===
+.DS_Store
+Thumbs.db
+*.swp
+
+# === VS Code settings ===
+.vscode/
