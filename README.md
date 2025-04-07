@@ -61,6 +61,13 @@ npm install
 npx cypress open
 ```
 
+## 📸 Test Run Screenshot
+
+![Test Run Screenshot](./screenshots/test-run.png)
+
+
+
+
 ---
 
 ## 🧪 Sample Test Scenarios
